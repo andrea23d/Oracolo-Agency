@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="it">
+  <head>
+	  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	  <meta property="og:image" content="http://across.it/landing/digital-business-across/img/.jpg">
+	  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	  <!--carousel style-->
+	 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+	  <!-- Icone e Fonts CSS -->
+	  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+	  <link href="../assets/css/custom-style.css" rel="stylesheet">
+	  <link href="../assets/css/animate.css" rel="stylesheet">
+	  <link href="css/custom.css" rel="stylesheet">
+	   <!-- Cookie Policy -->
+	  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+	  
+	  
+		<!-- Pixels -->
+		<!-- Linkedin -->
+		<script type="text/javascript">
+			_linkedin_partner_id = "1070140";
+			window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+			window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+			</script><script type="text/javascript">
+			(function(l) {
+			if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+			window.lintrk.q=[]}
+			var s = document.getElementsByTagName("script")[0];
+			var b = document.createElement("script");
+			b.type = "text/javascript";b.async = true;
+			b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+			s.parentNode.insertBefore(b, s);})(window.lintrk);
+		</script>
+		<noscript>
+			<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1070140&fmt=gif" />
+		</noscript>
+	  	  
+    <title>Campagne email marketing che funzionano.</title>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCRZXVK');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body cz-shortcut-listen="true" class="sfondo-h">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCRZXVK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+<!-- <div class="lines">
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+</div> -->
+	<section class="container ">
+		<div class="row justify-content-between">
+			<div class="col-lg-8">
+				<img src="../assets/img/Logo_Across_V1_dark.svg" height="70" class="my-5">
+				<h1 class="text-10 animated flash mt-3 desktop"> Raggiungi i tuoi obiettivi con le nostre campagne di <span class="tx-primary-1">Email Marketing</span>.</h1>
+				<h1 class="text-8 animated flash mt-3 mobile">Raggiungi i tuoi obiettivi con le nostre campagne di <span class="tx-primary-1">Email Marketing</span>.</h1>
+				<div class="text-center w-full pb-3"><img src="img/fly-mail.svg" alt="email marketin" height="50%"></div>
+				<h2 class="text-6 font-weight-normal">Ottieni solo contatti profilati e a target, definendo subito il costo per contatto generato.</h2>
+				
+				
+				<h4 class="mt-5">
+					<span class="tx-primary-1 text-4">&#10003;</span>&nbsp;&nbsp;Database proprietari<br>
+					<span class="tx-primary-1 text-4">&#10003;</span>&nbsp;&nbsp;GDPR compliant<br>
+					<span class="tx-primary-1 text-4">&#10003;</span>&nbsp;&nbsp;Ampia rete di affiliazione<br>
+				</h4>
+			</div>
+			<aside class="col-lg-4">
+				<div class="card shadow-lg pt-5 px-2 pb-2 mt-5">
+				<div class="text-center" id="vertical;">
+					<h3 class="">Compila il form per ricevere una consulenza <span class="tx-primary-1">gratuita</span>!</h3>
+					<iframe width="100%" height="450" frameBorder="0" scrolling="no" src="https://www.offerteperte.net/across/itlgems.htm?gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buO2DpN7xHjQpXKrSbeU3W_clONtsR7_9v9vtPP0XeUmLW0lE4BVen8aAsyIEALw_wcB"></iframe>
+					
+				</div>
+				</div>
+			</aside>
+		</div>
+	</section>
+	<section class="bg-light mt-5">
+		<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12">
+				<div class="my-5 pb-5">
+					<!-- <h2>Perch&eacute; <span class="tx-primary-1">sceglierci</span>?</h2>
+						<p>Across &egrave; l&rsquo;agenzia che propone servizi <strong>email marketing</strong> pensati a misura di azienda ed e-commerce: grazie al nostro know how decennale maturato nel settore <strong>ottieni contatti profilati e a target</strong>, definendo subito il costo per contatto generato.</p> -->
+						<div class="card-deck my-5">
+							<div class="card shadow-lg">
+								<div class="card-body p-5">
+									<h2 class="mb-4"><span class="tx-primary-1">Contattaci</span> se stai cercando:</h2>
+									<div class="my-4">
+										<ul>
+											<li><strong>Campagne</strong> costruite sui tuoi obiettivi (lead generation, costruzione database, traffico e conversione)</li>
+											<li><strong>Lead</strong> interessati e di qualit&agrave;</li>
+											<li><strong>Contenuti</strong> sempre creativi</li>
+											<li><strong>Raccolta di dati</strong> certificati e profilati, nel rispetto del GDPR</li>
+										</ul>
+									</div>
+									<div class="m-4">
+										<button type="button" class="btn-primary-1" data-toggle="modal" data-target="#ModalAcross">RICHIEDI SUBITO UNA CONSULENZA</button><br>
+										<p class="p-3"><a href="tel:0117920826" class="tx-primary-1" style="color:#60b158;"><u>Oppure chiamaci ora al numero <strong>011 7920826</strong></u></a></p>
+									</div>
+								</div>
+								<div class="card-footer border-0 rounded-0 bg-black p-4 text-center">
+									<h5 class="text-white">Abbiamo realizzato campagne di successo nei seguenti settori: <br><br>
+										<span class="badge badge-pill badge-primary-1 m-1">Automotive</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Educational &amp; Corsi</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Food &amp; Beverage</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Turismo</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Animali</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Servizi dedicati alla casa</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Richieste preventivo</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Pannelli solari</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Ristrutturazioni</span>
+										<span class="badge badge-pill badge-primary-1 m-1">Beauty</span>
+									</h5>
+								</div>
+							</div>
+						</div>
+					<div class="text-center">
+						<h2>Abbiamo <span class="tx-primary-1">lavorato con</span>:</h2>
+						<div id="myCarousel" class="carousel slide container moltiplica" data-bs-ride="carousel">
+								<div class="carousel-inner">
+									
+									<div class="carousel-item active" data-bs-interval="10" >
+										<div class="col-md-3">
+												<img src="img/loghi-03.png" alt="Fedrigoni" height="70" class="moltiplica">
+										</div>
+									</div>
+									
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-07.png" alt="Verisure" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-08.png" alt="ProntoPro" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-10.png" alt="Emma Materassi" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-11.png" alt="Arquati" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-12.png" alt="Younited Credit" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-13.png" alt="Unisalute" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-14.png" alt="Noicompriamoauto" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-15.png" alt="Optima" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-16.png" alt="ALD Automotive" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-17.png" alt="Giordanovini" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-18.png" alt="Banca Ifis" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-19.png" alt="Carplanner" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-20.png" alt="Clinica Baviera" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-36.png" alt="Maxi Zoo" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-22.png" alt="Voyage Privè" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-37.png" alt="Trivago" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-23.png" alt="H-Farm" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-24.png" alt="Fastweb" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-25.png" alt="Vodafone" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-26.png" alt="Motorvillage" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-27.png" alt="Iren" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-28.png" alt="movenzia.com" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+									<div class="carousel-item" class="carousel-item">
+										<div class="col-md-3">
+											
+												<img src="img/loghi-29.png" alt="CheTariffa.it" height="70" class="moltiplica">
+											
+										</div>
+									</div>
+								</div>
+								<button class="carousel-control-prev tras" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+									<img src="img/left.svg" height="20" alt="left">
+								</button>
+								<button class="carousel-control-next tras" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+									<img src="img/right.svg" height="20" alt="right">
+								</button>
+								
+							</div>
+							<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+
+
+						<!-- <img src="img/loghi-01.png" alt="CNH" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-02.png" alt="Iveco" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-03.png" alt="Fedrigoni" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-04.png" alt="Xerjoff" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-05.png" alt="Cerved" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-06.png" alt="Santander" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-07.png" alt="Verisure" height="60" class="moltiplica">
+						<img src="img/loghi-08.png" alt="ProntoPro" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-09.png" alt="UNCHR" height="60" class="moltiplica"> -->
+						<!-- <img src="img/loghi-10.png" alt="Emma Materassi" height="60" class="moltiplica">
+						<img src="img/loghi-11.png" alt="Arquati" height="60" class="moltiplica">
+						<img src="img/loghi-12.png" alt="Younited Credit" height="60" class="moltiplica">
+						<img src="img/loghi-13.png" alt="Unisalute" height="60" class="moltiplica">
+						<img src="img/loghi-14.png" alt="Noicompriamoauto" height="60" class="moltiplica"> -->
+					</div>	
+					
+
+					
+				</div>
+				
+			</div>
+		</div>
+		</div>
+	</section>
+	<section class="bg-primary-1 py-5 text-light">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-4 my-3">
+					<h3>Perch&eacute; dovresti scegliere l&rsquo;Email Marketing per la tua pubblicit&agrave;?</h3>
+					<p class="text-white">&Egrave; uno dei canali pi&ugrave; longevi ed efficaci quando si tratta di entrare in contatto con la tua audience. Grazie ai nostri database proprietari e a una rete di affiliazione premium garantiamo campagne targettizzate e performanti sia in Italia che all&rsquo;estero.</p>
+				</div>
+				<div class="col-lg-4 my-3">
+					<h3>Come puoi attivare una campagna di Email Marketing?</h3>
+					<p class="text-white">Lascia i tuoi contatti nel form ad inizio pagina, ti ricontatteremo il prima possibile per valutare assieme quale strategia &egrave; la migliore per il tuo business. Possiamo inoltre fornirti supporto tecnico e creativo, per la realizzazione e il settaggio di Email e landing page pensate appositamente per la campagna.</p>
+				</div>
+				<div class="col-lg-4 my-3">
+					<h3>Quali risultati puoi raggiungere?</h3>
+					<p class="text-white">Qualsiasi sia il tuo obiettivo, lavoriamo assieme per raggiungerlo. Attraverso un approccio consulenziale ti guidiamo in tutte le fasi della strategia, ottimizzando la campagna in tempo reale e fornendoti un report completo alla fine.</p>
+				</div>
+				<div class="m-4">
+					<button type="button" class="btn-white" data-toggle="modal" data-target="#ModalAcross">OTTIENI LA TUA CONSULENZA</button>
+					<p class="py-3"><a href="tel:0117920826" class="tx-white" style="color:#ffffff;"><u>Oppure chiamaci ora al numero <strong>011 7920826</strong></u></a></p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="bg-black">	
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="my-5 authority p-5 bg-black">
+						<h6 class="text-white interlinea">Across &egrave; la solution company italiana con sede a Torino che dal 2011 studia soluzioni innovative nel campo del digital marketing, con campagne in oltre 18 paesi. Con l&rsquo;apertura nel 2018 del comparatore online Chetariffa.it e dei due Contact center interni ha testato con successo un modello integrato di soluzioni marketing e sales, totalmente flessibile e gestibile in remoto.</h6>
+						<div class="row my-4 justify-content-start">
+							 
+							<div class="col-sm-2 py-1"><img src="../assets/img/FT_Future_1000_Europe_Siegel_2019.jpg" class="img-fluid"></div>
+							<div class="col-sm-2 py-1"><img src="../assets/img/post_fast500_2018-04.jpg" class="img-fluid"></div>
+						</div>
+							<!-- <button type="button" class="btn-primary-1 mt-4" data-toggle="modal" data-target="#ModalAcross">RICHIEDI LA TUA CONSULENZA</button> -->
+
+					</div>
+			</div>
+		</div>
+	</section>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="ModalAcross" tabindex="-1" role="dialog" aria-labelledby="ModalAcrossLabel" aria-hidden="true">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="../assets/img/chiudi.svg" height="50" class="m-3"></span>
+        </button>
+		<div class="modal-dialog bg-white p-4" role="document">
+			
+			<div class="modal-content text-center">
+			<h3 class="">Compila il form per ricevere una consulenza <span class="tx-primary-1">gratuita</span>!</h3>
+				<iframe width="100%" height="610" frameBorder="0" scrolling="no" src="https://www.offerteperte.net/across/itlgems.htm?gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buO2DpN7xHjQpXKrSbeU3W_clONtsR7_9v9vtPP0XeUmLW0lE4BVen8aAsyIEALw_wcB"></iframe>
+		  </div>
+		</div>
+	</div>
+	<footer class="bg-black">
+		<div class="container">
+		<div class="row p-3">
+			<div class="col-12 text-center text-white">
+			<!-- Privacy --><h6>&copy; Copyright Across Srl 2023  - <a href="http://across.it/privacy.html" target="_blank" class="tx-primary-1">Privacy</a></h6>
+			</div>
+		</div>
+		</div>
+	</footer>
+
+	<!-- carousel -->
+	<script>
+		$('.carousel .carousel-item').each(function () {
+			var minPerSlide = 4;
+			var next = $(this).next();
+			if (!next.length) {
+			next = $(this).siblings(':first');
+			}
+			next.children(':first-child').clone().appendTo($(this));
+
+			for (var i = 0; i < minPerSlide; i++) { next=next.next(); if (!next.length) { next=$(this).siblings(':first'); } next.children(':first-child').clone().appendTo($(this)); } });
+			
+			var myCarousel = document.querySelector('#myCarousel')
+			var carousel = new bootstrap.Carousel(myCarousel, {
+			interval: 1100,
+			wrap: false
+			})
+		
+	</script>
+	
+	
+		
+	<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+	<script>
+			  window.cookieconsent.initialise({
+				  "palette": {
+					  "popup": {
+						  "background": "#000000"
+					  },
+					  "button": {
+						  "background": "#60b158"
+					  }
+				  },
+				  "content": {
+					  "message": "Questo sito utilizza dei cookie tecnici e di terze parti. Continuando con la navigazione l'utente accetta il loro utilizzo. Per saperne di pi&ugrave; o negare il consenso ad alcuni cookie clicca su Cookie Policy.",
+					  "dismiss": "Accetta",
+					  "href": "https://across.it/cookies-policy-it/"
+				  }
+			  });
+	  </script>
+
+      <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-pjaaA8dDz/5BgdFUPX6M/9SUZv4d12SUPF0axWc+VRZkx5xU3daN+lYb49+Ax+Tl" crossorigin="anonymous"></script>
+	  <script src="js/custom-scritpt.js"></script>
+
+	  
+  </body>
+</html>
